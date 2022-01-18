@@ -20,17 +20,17 @@ html, body {
 }
 
 .nav a {
-    margin: 2%;
+    margin: 10%;
+    padding: 5%;
     font-family: Gluten;
-    font-size: 1em;
+    font-size: 1.5em;
     text-align: center;
     color: #E54715;
-    font-display: none;
 }
 
 .nav a:hover {
     font-style: italic;
-    color: #491474;
+    color: #622B86;
 }
 
 .grid1 {
