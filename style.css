@@ -12,6 +12,16 @@ html, body {
 	object-fit: cover;
 }
 
+
+.nav {
+    text-align: right;
+}
+
+.nav a {
+    margin: 2%;
+    
+}
+
 .grid1 {
     display: grid;
     grid-column-gap: 50px;
