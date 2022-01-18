@@ -20,19 +20,21 @@ html, body {
 .nav a {
     margin: 2%;
     font-family: Roboto;
-    font-size: 4em;
+    font-size: 2em;
     text-align: center;
+    color: #E54715;
 }
 
 .nav a:hover {
     font-style: italic;
-
+    color: #491474;
 }
 
 .grid1 {
     display: grid;
     grid-column-gap: 50px;
-    margin: 20%;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
 .g1-left {
@@ -45,4 +47,6 @@ html, body {
 
 h1 {
     color: orange;
+    font-family: Gluten;
+    font-size: 3em;
 }
