@@ -19,6 +19,13 @@ html, body {
 
 .nav a {
     margin: 2%;
+    font-family: Roboto;
+    font-size: 4em;
+    text-align: center;
+}
+
+.nav a:hover {
+    font-style: italic;
     
 }
 
