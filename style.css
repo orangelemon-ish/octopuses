@@ -25,7 +25,7 @@ html, body {
 .nav a {
     font-family: Gluten;
     text-align: center;
-    color: #E54715;
+    /*color: #E54715;*/
     float: left;
     font-size: 16px;
     padding: 14px 16px;
