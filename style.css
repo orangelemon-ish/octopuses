@@ -25,7 +25,7 @@ html, body {
 .nav a {
     font-family: Gluten;
     text-align: center;
-    color: #E54715;
+    color: #f47a07;
     float: right;
     font-size: 16px;
     padding: 14px 16px;
@@ -38,7 +38,7 @@ a:hover {
 }
 
 a {
-    color: #E54715;
+    color: #f47a07;
 }
 
 .grid1 {
@@ -57,7 +57,7 @@ a {
 }
 
 h1 {
-    color: #E54715;
+    color: #f47a07;
     font-family: Gluten;
     font-size: 3em;
 }
@@ -66,4 +66,12 @@ p {
     font-family: Roboto;
     font-size: 1.3em;
     color: black;
+}
+
+footer {
+    padding: 5%;
+    float: left;
+    background-color: #f47a07;
+    color: white;
+    font-size: 0.5em;
 }
