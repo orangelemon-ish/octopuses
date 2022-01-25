@@ -32,9 +32,13 @@ html, body {
 	margin: 0;
 }
 
-.nav a:hover {
+a:hover {
     font-style: italic;
     color: #622B86;
+}
+
+a {
+    color: #E54715;
 }
 
 .grid1 {
@@ -60,6 +64,6 @@ h1 {
 
 p {
     font-family: Roboto;
-    font-size: 1.4em;
+    font-size: 1.3em;
     color: black;
 }
