@@ -57,3 +57,9 @@ h1 {
     font-family: Gluten;
     font-size: 3em;
 }
+
+p {
+    font-family: Roboto;
+    font-size: 1.4em;
+    color: black;
+}
