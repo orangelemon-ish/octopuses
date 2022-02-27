@@ -2,6 +2,8 @@ html, body {
 	max-width: 100%;
 	overflow-x: hidden;
 	margin: 0;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 .back {
@@ -57,8 +59,7 @@ a:hover {
 .grid1 {
     display: grid;
     grid-column-gap: 50px;
-    margin-left: 10%;
-    margin-right: 10%;
+    
 }
 
 .g1-left {
