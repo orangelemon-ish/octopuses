@@ -69,6 +69,14 @@ a:hover {
     grid-column-start: 2;
 }
 
+.g1-top {
+    grid-row-start: 1;
+}
+
+.g1-bottom {
+    grid-row-start: 2;
+}
+
 h1 {
     color: #15cadb;
     font-family: Gluten;
